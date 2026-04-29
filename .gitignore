@@ -1,0 +1,13 @@
+# Ignore local environment files
+.env
+
+# Ignore node modules from both frontend and backend
+WMT_LabTest_Project/backend/node_modules/
+WMT_LabTest_Project/frontend/node_modules/
+
+# Ignore Vite local cache
+WMT_LabTest_Project/frontend/node_modules/
+
+# Ignore OS and editor files
+.DS_Store
+Thumbs.db
